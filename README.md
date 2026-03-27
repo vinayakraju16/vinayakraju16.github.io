@@ -21,7 +21,7 @@
 ```python
 vinayak = {
     "role"      : "Full Stack Developer & AI/ML Engineer",
-    "education" : "MS in Artificial Intelligence @ UNT (May 2026)",
+    "education" : "MS in Artificial Intelligence @ UNT (December 2026)",
     "experience": "2+ years — Infynect Labs (IPTV, DRM, AWS)",
     "thesis"    : "Adversarial Robustness of Temporal Relation Classifiers",
     "stack"     : ["React", "Node.js", "Python", "BERT", "AWS", "Docker"],
