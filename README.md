@@ -134,15 +134,10 @@ vinayak = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayakraju16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00b4d8&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakraju16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&cache_seconds=1800" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakraju16&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=6e40c9&point=ffffff" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakraju16&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=6e40c9&point=ffffff&area=true" width="98%" />
 </div>
 
 ---
